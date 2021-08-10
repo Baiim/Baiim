@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sleep.gif.gif" alt="animated" />
+  <img src="/assets/sleep.gif.gif" alt="animated" />
 </p>
 
 <!-- <p align="center">
