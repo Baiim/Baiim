@@ -7,7 +7,7 @@
     <a href="https://stackoverflow.com/users/984422/wahyu-kristianto"><img src="https://img.shields.io/stackexchange/stackoverflow/r/984422?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=f3862e" height=25></a>
 </p> -->
 
-<table>
+<table align="center">
     <tr>
         <td>
             <a href="#">
