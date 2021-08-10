@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/sleep.gif.gif" alt="animated" />
+  <img src="https://i.pinimg.com/originals/81/79/b5/8179b530237c2c657e2b17bd4b00c02e.gif"/>
 </p>
 
 <!-- <p align="center">
