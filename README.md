@@ -2,10 +2,9 @@
   <img src="https://i.pinimg.com/originals/81/79/b5/8179b530237c2c657e2b17bd4b00c02e.gif"/>
 </p>
 
-<!-- <p align="center">
-    <a href="https://www.linkedin.com/in/kristories"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-    <a href="https://stackoverflow.com/users/984422/wahyu-kristianto"><img src="https://img.shields.io/stackexchange/stackoverflow/r/984422?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=f3862e" height=25></a>
-</p> -->
+<p align="center">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height=25>
+</p>
 
 <table align="center">
     <tr>
