@@ -1,6 +1,6 @@
-<div align="center">
-    [![](assets/sleep.gif)](#)
-</div>
+<p align="center">
+  <img src="assets/sleep.gif.gif" alt="animated" />
+</p>
 
 <!-- <p align="center">
     <a href="https://www.linkedin.com/in/kristories"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
