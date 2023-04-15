@@ -1,20 +1,19 @@
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/297/2970.gif"/>
-</p>
 
-<p align="center">
-    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height=25>
-    <a href="https://api.whatsapp.com/send/?phone=6282225461633&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
-    <a href="https://t.me/yaelahbiim"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
-    <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" height=25>
-</p>
+## Hello 👋, I am Sektiawan Bimo Prihpambudi
 
-<table align="center">
-    <tr>
-        <td>
-            <a href="#">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baiim&theme=blue-green" />
-            </a>
-        </td>
-    </tr>
-</table>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### I'm a Frontend Engineer. Work remotely from Jakarta,Indonesia. Love open source.
+
+- ⚙️ My daily uses: `.js`, `.html`, `.css`, `.ts`, `.php`
+- 🌱 Recently I'm interested learning about web development and mobile development
+- 📫 Reach me: [sektia7@gmail.com](mailto:sektia7@gmail.com) and [Linkedin](https://www.linkedin.com/in/baiim-dev/)
+
+
+
