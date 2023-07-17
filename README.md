@@ -11,7 +11,7 @@
 
 #### I'm a Frontend Engineer. Work hybrid from Jakarta,Indonesia. Love javaScript <3.
 
-- ⚙️ My daily uses: `.js`, `.html`, `.css`, `.ts`, `.php`
+- ⚙️ My daily uses: `.js`, `.html`, `.css`, `.php`
 - 🌱 Recently I'm interested learning about web development and mobile development
 - 📫 Reach me: [sektia7@gmail.com](mailto:sektia7@gmail.com) and [Linkedin](https://www.linkedin.com/in/baiim-dev/)
 
